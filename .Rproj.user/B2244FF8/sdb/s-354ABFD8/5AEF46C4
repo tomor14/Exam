@@ -1,0 +1,18 @@
+{
+    "contents" : "#' @title This is Title\n\n\nchi.probability <- function(x, df = 1, n =1){\n\n}\n",
+    "created" : 1462959592758.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3591487209",
+    "id" : "5AEF46C4",
+    "lastKnownWriteTime" : 1462960620,
+    "path" : "~/Desktop/mappe uden navn/test/R/chi.probability.R",
+    "project_path" : "R/chi.probability.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
